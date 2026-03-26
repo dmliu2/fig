@@ -1,2 +1,1 @@
-# fig
-fig
+(special.pdf)
