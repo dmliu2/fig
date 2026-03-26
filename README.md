@@ -1,1 +1,1 @@
-(special.pdf)
+[![Preview](./preview.png)](special.pdf)
